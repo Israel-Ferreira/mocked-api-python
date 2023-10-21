@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "model": "Accord 3.5 V6",
+        "manufacturer": "Honda",
+        "year": "2009",
+        "color": "Branco"
+    },
+
+    {
+        "id": "2",
+        "model": "Prius 1.8 VVT Hibrido",
+        "manufacturer": "Toyota",
+        "year": "2014",
+        "color": "Vermelho"
+    },
+
+    {
+        "id": "3",
+        "model": "Azera 3.3 V6 AUTOMÁTICO",
+        "manufacturer": "HYUNDAI",
+        "year": "2009",
+        "color": "Prata"
+    },
+
+    {
+        "id": "4",
+        "model": "Optima 2.4  EX AUTOMÁTICO",
+        "manufacturer": "KIA",
+        "year": "2014",
+        "color": "Branco"
+    },
+
+
+    {
+        "id": "5",
+        "model": "HYUNDAI I30 2.0 MPFI GLS 16V GASOLINA 4P AUTOMÁTICO",
+        "manufacturer": "HYUNDAI",
+        "year": "2010",
+        "color": "Prata"
+    },
+
+
+    {
+        "id": "6",
+        "model": "I30 CW 2.0 MPFI GLS 16V GASOLINA 4P AUTOMÁTICO",
+        "manufacturer": "HYUNDAI",
+        "year": "2011",
+        "color": "Preto"
+    },
+
+
+    {
+        "id": "7",
+        "model": "Focus Hatch GHIA 2.0",
+        "manufacturer": "Ford",
+        "year": "2009",
+        "color": "Prata"
+    }
+
+
+]
